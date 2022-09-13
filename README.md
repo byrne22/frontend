@@ -36,6 +36,11 @@ As a user of the application,you will be able to :
  
 ### Live Link
 - Click this link to view the live application
+
+### Backend repolink
+- Click this link to view the back end repo https://github.com/byrne22/backend
+
+
 ### Technology  Used
 * HTML - has been used to display the app.
 * CSS - has been used to style the User Interface.
@@ -64,4 +69,5 @@ SOFTWARE.
 
 ## Authors Info
 Slack Profile - Byron Odhiambo
+
 github profile- byrne22
