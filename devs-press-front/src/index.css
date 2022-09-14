@@ -20,7 +20,7 @@ code {
   text-align:center;
   color: white;
   font-family:Arial, Helvetica, sans-serif;
-  background-color: #46A094;
+  background-color: #264248;
   height: 300px;
 
   
@@ -32,7 +32,7 @@ code {
 }
 
 .card-body{
-  background-color: rgb(37, 35, 35);
+  background-color: #264248;
   color:white
 }
 .form-control{
