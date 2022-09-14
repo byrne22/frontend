@@ -47,7 +47,7 @@ function HomePage(){
                   <p className="card-text">{post.Content}</p>
                   <div className="review">
 
-                  <h5 style={{color:"black", textAlign:"left"}}>Reviews</h5>
+                  <h5 style={{color:"blue", textAlign:"left"}}>Reviews</h5>
 
                   <span>{post.reviews.map((review)=> {
                   
