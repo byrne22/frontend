@@ -34,8 +34,9 @@ As a user of the application,you will be able to :
 * Open the index file from the zipped file with any browser.
  ****
  
-### Live Link
-- Click this link to view the live application
+### video Link
+- Click this link to view the video review for the application:https://drive.google.com/file/d/1-nBSCCna4QrI3L7ivDXg71ERaPAM_WlP/view?usp=sharing
+
 
 ### Backend repolink
 - Click this link to view the back end repo https://github.com/byrne22/backend
