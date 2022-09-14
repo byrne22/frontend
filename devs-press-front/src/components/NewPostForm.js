@@ -38,7 +38,7 @@ function NewPostForm({onHandleAddPost, setIsFilledIn}){
         .then((resp) => resp.json())
         .then((newBlog) => onHandleAddPost(newBlog) )
 
-        alert("You have a new Post Added, navigate to the home page to view it")
+        alert("You have a new Post Added, navigate to home to view it")
         
 
     }
