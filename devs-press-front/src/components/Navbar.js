@@ -21,8 +21,8 @@ function Navbar(){
             <div className="navName">
                 <p> </p>
             
-                <h1 style={{paddingTop:60 + "px"}}>THE BLOG</h1>
-                <p style={{paddingTop: 10+"px"}}> - Follow the latest news and thoughts <br></br> from the developer's Blog</p>
+                <h1 style={{paddingTop:60 + "px"}}>DevsPress</h1>
+                <p style={{paddingTop: 10+"px"}}> - Follow current and useful Dev trends  <br></br> contributed by fellow devs</p>
             </div>
 
             
