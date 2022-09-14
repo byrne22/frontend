@@ -2,7 +2,7 @@
  ## Byron Odhiambo
 ## Screenshot
  <!-- ![image](./blog-client-front/public/landing.png) -->
- <img src="./blog-client-front/public/landing.png" />
+ <img src="./devs-press-front/public/landing.png" />
  
  ## Table of Content
  - [Description](#description)
