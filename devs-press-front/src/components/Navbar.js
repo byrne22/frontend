@@ -3,11 +3,11 @@ import { Link} from "react-router-dom"
 
 function Navbar(){
     return(
-        <div style={{padding: 40+"px", marginLeft:100+ "px"}}>
+        <div style={{padding: 30+"px", marginLeft:50+ "px"}}>
 
-            <ul className="nav nav-pills" style={{marginTop:20 +"px", marginLeft:1.6 + "em"}}>
+            <ul className="nav nav-pills" style={{marginTop:5 +"px", marginLeft:1.6 + "em"}}>
             <li className="nav-item">
-                <Link to="/" exact class="nav-link " aria-current="page" >HomePage</Link>
+                <Link to="/" exact class="nav-link " aria-current="page" >Home</Link>
             </li>
             <li className="nav-item">
                 <Link  to="/publish" exact class="nav-link">Publish</Link>
