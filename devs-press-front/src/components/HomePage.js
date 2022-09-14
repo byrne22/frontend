@@ -47,11 +47,11 @@ function HomePage(){
                   <p className="card-text">{post.Content}</p>
                   <div className="review">
 
-                  <h5 style={{color:"blue", textAlign:"left"}}>Reviews</h5>
+                  <h5 style={{color:"black", textAlign:"left"}}>Reviews</h5>
 
                   <span>{post.reviews.map((review)=> {
                   
-                    return <p style={{color: 'blue'}}>{review.name} ~ 
+                    return <p style={{color: 'white'}}>{review.name} ~ 
                      <span style={{textAlign:'left', color: 'white'}}> {review.comment}</span>  {new Date(review.created_at).toLocaleTimeString()} <DeletePost onDeletePost={handleDeletePost} id={review.id}/></p>
                     
                   }

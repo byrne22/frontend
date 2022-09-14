@@ -46,7 +46,7 @@ function NewPostForm({onHandleAddPost, setIsFilledIn}){
 
     return (
         <div style={{margin:"auto", width:'60%', height: 100+"vh", color:"blue"}}>
-            <h1 style={{textAlign:"center", marginTop: 50 +"px"}}>Create A New Post</h1>
+            <h1 style={{textAlign:"center", marginTop: 50 +"px"}}>Create Post</h1>
 
             <form className="mb-3" onSubmit={handleSubmit}>
 
@@ -67,7 +67,7 @@ function NewPostForm({onHandleAddPost, setIsFilledIn}){
                     <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Author"  onChange={(e)=>setAuthor(e.target.value)} required/>
                 </div>
            
-               <button type="submit">Submit New Post</button>
+               <button type="submit">Submit Post</button>
        
 
             </form> 
