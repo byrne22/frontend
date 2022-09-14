@@ -1,8 +1,8 @@
 # DevsPress
  ## Byron Odhiambo
 ## Screenshot
- <!-- ![image](./blog-client-front/public/landing.png) -->
- <img src="../devs-press-front/public/landing.png" />
+ ![landing](https://user-images.githubusercontent.com/104425175/190137669-6d9773be-33f4-4036-8b72-f176ce6cbcb8.png)
+
  
  ## Table of Content
  - [Description](#description)
